@@ -42,7 +42,3 @@ All work performed in an isolated local lab for learning and safe testing only.
    - Run Wireshark on host-only interface and curl http://<target-ip> to capture HTTP traffic.  
    - openssl demos from notes/task1_commands.md.
 
-
-## Contact
-- *Name:* Palak Baranwal 
-- *LinkedIn / Video:* Paste LinkedIn video link here after upload
